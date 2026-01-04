@@ -124,6 +124,12 @@ streamlit run app.py
 
 ---
 
+## Testing Data
+
+Resumes.zip is provided as sample input data to quickly test the ATS output.
+
+---
+
 ## Sample Output
 
 ```
